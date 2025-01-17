@@ -1,0 +1,14 @@
+[
+  {
+    "IdPerna": "f85a4082-9d31-4f39-95b8-54598ef2fbfd",
+    "Origem": "CUR",
+    "Destino": "SPO",
+    "Custo": 600
+  },
+  {
+    "IdPerna": "30b72739-cdef-42de-a17a-56732861d0f7",
+    "Origem": "SPO",
+    "Destino": "RJO",
+    "Custo": 400
+  }
+]

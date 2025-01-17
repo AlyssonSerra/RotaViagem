@@ -1,0 +1,6 @@
+@RotaViagemService_HostAddress = http://localhost:5021
+
+GET {{RotaViagemService_HostAddress}}/Rota/
+Accept: application/json
+
+###
